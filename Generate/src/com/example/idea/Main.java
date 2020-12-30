@@ -7,7 +7,7 @@ public class Main {
         System.out.println("Hello from IntelliJ IDEA!");
 
         //noinspection unused
-        String firstname;
+        String firstname1;
         int num;
 
     }
